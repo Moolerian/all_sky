@@ -86,7 +86,7 @@
 						<port>9090</port>
 					</httpConnector>
 					<webApp>
-						<contextPath>/codenotfound</contextPath>
+						<contextPath>/all_sky</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
